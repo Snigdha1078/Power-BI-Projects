@@ -3,11 +3,11 @@ The Automated Invoice & Payment Tracking Dashboard is designed to provide real-t
 
 This dashboard automates data collection, analysis, and reporting, ensuring that businesses can proactively manage customer payments, overdue accounts, and energy consumption trends with minimal manual effort.
 
-📍 Project Overview
+📍 Project Overview \n
 1️⃣ Data Collection & Integration
 Imported 10,000+ invoice records covering customer payments, energy consumption, invoice statuses, and overdue balances.
 Connected data from multiple sources (Excel, SQL, Power BI Service) for real-time updates.
-Integrated customer demographics such as region, industry, and customer type to uncover trends in payment behavior.
+Integrated customer demographics such as region, industry, and customer type to uncover trends in payment behavior.\n
 2️⃣ Data Cleaning & Processing
 Standardized invoice records by handling missing payment dates, incorrect billing amounts, and duplicate transactions.
 Created calculated columns for Pending Payments, Overdue Days, and Payment Completion Rate to improve analysis.
